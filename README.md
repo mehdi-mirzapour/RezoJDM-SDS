@@ -3,10 +3,9 @@ This is a subproject related to the creation of RezoJDM-SDS, French Semantic Rel
 
 ## Instruction:  
 
-Simply download the `datasets` folder and use it for training machine learning models.
+Simply download the `datasets` folder and use it for training machine learning models. There are two main columns in the datasets, namely, `source_name`,`destination_name` and the rest of columns are semantic relations: `r_agent`,`r_carac`,`r_causatif`,`r_conseq`,`r_has_part`,`r_holo`,`r_instr`,`r_isa`,`r_lieu`,`r_patient`.
 
-
-## RezoJDM-SDS: A Semantic DataSet built from RezoJDM
+## RezoJDM-SDS: Description
 
 RezoJDM-SDS is a Semantic DataSet created from RezoJDM. Among wide variety of possibilities, we have only focused on 10 most frequent semantic relations which belong to the ontological and predicative categories of RezoJDM and are more common in semantic linguistic analysis.  Relations with weights less than 50 are treated as negative in our dataset. 
 
