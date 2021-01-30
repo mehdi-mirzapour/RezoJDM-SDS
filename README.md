@@ -45,5 +45,5 @@ The descriptions and examples of the relation types are illustrated in tables. R
 ```
 
 ### License
-RezoJDM-SDS is MIT-licensed, as can be found in the LICENSE file.
+RezoJDM-SDS is released under the MIT license.
 
