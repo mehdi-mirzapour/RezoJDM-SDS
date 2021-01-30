@@ -38,7 +38,7 @@ The descriptions and examples of the relation types are illustrated in tables. R
 
 ```bibtex
 @inproceedings{mirzapour2021,
-  TITLE = {Improving Quality of French Indirect Coreference Resolver by Employing Semantic Features from RezoJDM},
+  TITLE = {Improving Quality of French Indirect Coreference Resolver by Introducing Semantic Features from RezoJDM},
   AUTHOR = {Mirzapour, Mehdi and Ragheb, Waleed and Cousot, Kevin and Lafourcade, Mathieu and Jacquenet, Hélène and Carbon, Lawrence},
   BOOKTITLE = {Under Review}
 }
