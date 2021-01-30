@@ -12,6 +12,7 @@ RezoJDM-SDS is a Semantic DataSet created from RezoJDM. Among wide variety of po
 
 <p align="center">
   <img src="https://github.com/mehdi-mirzapour/RezoJDM-SDS/blob/main/resources/Table_1.jpg" width="500" height="350">
+  <br>
   <img src="https://github.com/mehdi-mirzapour/RezoJDM-SDS/blob/main/resources/Table_2.jpg" width="500" height="350">
   <img src="https://github.com/mehdi-mirzapour/RezoJDM-SDS/blob/main/resources/Table_3.jpg" width="500" height="200">
 </p>
